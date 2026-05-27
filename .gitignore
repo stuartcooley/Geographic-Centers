@@ -1,0 +1,8 @@
+# Ignore everything in this folder by default
+*
+
+# Except the geographic centroid project files
+!.gitignore
+!centroid_search.py
+!centroid_3d.py
+!centroid_3d.html
